@@ -171,50 +171,7 @@ Backend (Express + Node.js)
 
 ---
 
-## 🚀 Getting Started
 
-### Prerequisites
-- Node.js 14+ and npm
-- MongoDB Atlas account (free tier available)
-- Code editor (VS Code recommended)
-
-### Installation
-
-#### 1. Clone Repository
-```bash
-git clone <your-repo>
-cd "Notes App"
-```
-
-#### 2. Backend Setup
-```bash
-cd backend
-npm install
-cp .env.example .env
-# Edit .env with your MongoDB URI and JWT secret
-npm start
-```
-
-**Backend runs on**: `http://localhost:3000`
-
-#### 3. Frontend Setup
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-**Frontend runs on**: `http://localhost:5173`
-
-### .env Configuration
-```env
-# Backend (.env)
-MONGO_URL=mongodb+srv://user:password@cluster.mongodb.net/notesDB
-FRONTEND_URL=http://localhost:5173
-JWT_SECRET=your_secure_secret_here
-NODE_ENV=development
-PORT=3000
-```
 
 ### Testing the Application
 1. **Register** - Create account with strong password
