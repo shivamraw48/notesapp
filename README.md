@@ -498,28 +498,11 @@ This project is provided as-is for educational and portfolio purposes.
 ## 👤 Author
 
 **Your Name**
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com)
-- 🐙 GitHub: [Your Profile](https://github.com)
+- 📧 Email: shivamraw48@gmail.com
 
 ---
 
-## ✅ Checklist for Interview
 
-When presenting this project to an interviewer:
-
-- [ ] Explain the architecture (frontend, backend, database)
-- [ ] Discuss security implementations (JWT, password hashing, sanitization)
-- [ ] Show code organization (centralized API service, middleware pattern)
-- [ ] Mention challenges overcome (token management, CORS, XSS)
-- [ ] Walk through the user flow (register → login → create notes)
-- [ ] Explain database schema and relationships
-- [ ] Discuss error handling strategies
-- [ ] Show responsive design on mobile
-- [ ] Talk about deployment considerations
-- [ ] Discuss what you'd improve/add
-
----
 
 ## 🎉 Key Takeaways
 
@@ -534,15 +517,7 @@ This project demonstrates:
 
 ---
 
-## 📞 Support
 
-For issues or questions:
-1. Check [SETUP.md](./SETUP.md) for common problems
-2. Review [CHANGES.md](./CHANGES.md) for recent updates
-3. Check browser console for error messages
-4. Review backend logs for API errors
-
----
 
 **Last Updated**: March 26, 2026  
 **Status**: ✅ Production Ready  
